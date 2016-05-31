@@ -1,0 +1,3168 @@
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.864891811509054</string>
+<key>longitude</key>
+<string>30.386137685859943</string>
+<key>name</key>
+<string>Суши White</string>
+<key>desc</key>
+<stringБольшой выбор сетов на любой вкус) всегда свежие и прям при тебе готовят) делают скидки) открылись недавно и очень приветливы к посетителям) попробовать ручной ролл с лососем)</string>
+<key>address</key>
+<string>"Бухарестская ул., 33","192071, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 242-19-39</string>
+<key>site</key>
+<string>http:\/\/www.sushiwhite.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.85583224718411</string>
+<key>longitude</key>
+<string>30.377855544944257</string>
+<key>name</key>
+<string>Вагаси \/ Розарио</string>
+<key>desc</key>
+<string>Уютная атмосфера, вежливые официанты. Идут навстречу вегетарианцам) но в основном блюда с мясом и морепродуктами.</string>
+<key>address</key>
+<string>"просп. Славы, 21","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 244-73-15</string>
+<key>site</key>
+<string>http:\/\/wasabico.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93521486252793</string>
+<key>longitude</key>
+<string>30.371347706878623</string>
+<key>name</key>
+<string>Мисо</string>
+<key>desc</key>
+<string>Самая лучшая японская кухня в городе. Вкусные супы и впечатляющие своим размером роллы. Всем советую!</string>
+<key>address</key>
+<string>"Суворовский просп., 15","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 271-59-67</string>
+<key>site</key>
+<string>https:\/\/foursquare.com\/download\/#\/iphone</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.851589285756496</string>
+<key>longitude</key>
+<string>30.314643675705813</string>
+<key>name</key>
+<string>Pro Sushi</string>
+<key>desc</key>
+<string>Самые вкусные суши в городе на самом деле)Филадельфия,роллы с лососем,салат с лапшой,суши с авокадо-супер</string>
+<key>address</key>
+<string>"Варшавская ул., 61, корп. 1 (Ленинский пр.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 370-77-51</string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.84163064462493</string>
+<key>longitude</key>
+<string>30.31776285631724</string>
+<key>name</key>
+<string>Хагакурэ</string>
+<key>desc</key>
+<string>Здесь можно получить множественный пробуждающий азиатский пищевой оргазм!????????????</string>
+<key>address</key>
+<string>"пл. Победы, 1 (ул. Галстяна)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 335-25-08</string>
+<key>site</key>
+<string>http:\/\/myhagakure.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.935581258007694</string>
+<key>longitude</key>
+<string>30.312819261463133</string>
+<key>name</key>
+<string>Ярумэн | ????</string>
+<key>desc</key>
+<string>Полнейшее разочарование!Эта Еда таких денег не стоит!Лапша \</string>
+<key>address</key>
+<string>"Ул. Малая Морская 9","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 312-97-71</string>
+<key>site</key>
+<string>http:\/\/www.yarumen.com</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.868620761684326</string>
+<key>longitude</key>
+<string>30.315776201317604</string>
+<key>name</key>
+<string>Якитория Mojo</string>
+<key>desc</key>
+<string>Самые медлительные официанты!!!!</string>
+<key>address</key>
+<string>"Чернышевского пл., 11","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 369-72-33</string>
+<key>site</key>
+<string>http:\/\/yakitoriya.spb.ru</string>
+<key>openhours</key>
+<string>Open until 11:30 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.999404555388885</string>
+<key>longitude</key>
+<string>30.291624069213867</string>
+<key>name</key>
+<string>Токио Сити</string>
+<key>desc</key>
+<string>Безумно вкусно))) шикарная обстановка)) всё радует))</string>
+<key>address</key>
+<string>"Богатырский просп., 4","197348, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 394-75-45</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.933850933417425</string>
+<key>longitude</key>
+<string>30.33927597990945</string>
+<key>name</key>
+<string>Токио Сити</string>
+<key>desc</key>
+<string>Невероятно приятное место! Обстановка как дома;)</string>
+<key>address</key>
+<string>"Невский просп., 60","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-10-00</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 6:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93154906654749</string>
+<key>longitude</key>
+<string>30.35946249961853</string>
+<key>name</key>
+<string>Москва</string>
+<key>desc</key>
+<string>Счет просите сразу вместе с заказом.Иначе опоздаете на свадьбу внука.</string>
+<key>address</key>
+<string>"Стокманн Невский Центр (Невский просп., 114)","191025, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 640-16-16</string>
+<key>site</key>
+<string>http:\/\/ginzaproject.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.988111242143766</string>
+<key>longitude</key>
+<string>30.2090858326366</string>
+<key>name</key>
+<string>Sushi-Ria</string>
+<key>desc</key>
+<string>Самый лучший суши бар в городе.Хожу сюда уже 2 или 3 года,никогда не разочаровываюсь!</string>
+<key>address</key>
+<string>"ул. Савушкина, 135","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 496-77-30</string>
+<key>site</key>
+<string>http:\/\/www.sushi-ria.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.91142779097488</string>
+<key>longitude</key>
+<string>30.31803846359253</string>
+<key>name</key>
+<string>Мисо</string>
+<key>desc</key>
+<string>Очень приятное заведение. Странно, что совсем нет посетителей. Вкусно, уютно и вежливый персонал.</string>
+<key>address</key>
+<string>"Московский просп., 48","191036, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 317-82-74</string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.951660269463446</string>
+<key>longitude</key>
+<string>30.216678686487416</string>
+<key>name</key>
+<string>Токио Сити</string>
+<key>desc</key>
+<string>Второй день после открытия, так что судить сложно... Но в целом понравилось: вкусная еда, услужливый персонал, отличная музыка!</string>
+<key>address</key>
+<string>"ул. Кораблестроителей, 30","199397, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 602-09-30</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.85419027962412</string>
+<key>longitude</key>
+<string>30.21008712856908</string>
+<key>name</key>
+<string>Tокио Cити</string>
+<key>desc</key>
+<string>wi-fi network: Tokyo wi-fi password: 677-1000 - via 4sqwifi.com</string>
+<key>address</key>
+<string>"Ленинский просп., 93 (ул. Котина)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-23-00</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string></string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.914208248253196</string>
+<key>longitude</key>
+<string>30.47521400181784</string>
+<key>name</key>
+<string>Токио Сити</string>
+<key>desc</key>
+<string>Приятный интерьер,официанты отзывчивы,еда достойная.вообщем твердая 5 для нового заведения \</string>
+<key>address</key>
+<string>"просп. Большевиков, 9","193231, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-29-86</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.953787591836914</string>
+<key>longitude</key>
+<string>30.331659705554376</string>
+<key>name</key>
+<string>Якитория - Mojo</string>
+<key>desc</key>
+<string>Здесь Вы можете почитать свежий номер газеты «Ведомости».</string>
+<key>address</key>
+<string>"Петровская наб., 4 (Мичуринская ул.)","197046, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 325-65-00</string>
+<key>site</key>
+<string>http:\/\/yakitoriya.spb.ru</string>
+<key>openhours</key>
+<string>Closed until 11:00 AM Monday</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.01611064784068</string>
+<key>longitude</key>
+<string>30.250263766073196</string>
+<key>name</key>
+<string>Токио Сити</string>
+<key>desc</key>
+<string>677-1000 пароль к wi-fi</string>
+<key>address</key>
+<string>"Комендантский просп., 25 (Долгоозерная ул.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-98-07</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.97641499081197</string>
+<key>longitude</key>
+<string>30.30843615531921</string>
+<key>name</key>
+<string>Ки-до \/ Ki-do</string>
+<key>desc</key>
+<string>Пароль wi-fi: 08990003634</string>
+<key>address</key>
+<string>"ул. Академика Павлова, 14А","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 234-20-04</string>
+<key>site</key>
+<string>http:\/\/kido.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.966772690275036</string>
+<key>longitude</key>
+<string>30.409774366671833</string>
+<key>name</key>
+<string>Токио-Сити</string>
+<key>desc</key>
+<string>Это просто божественный чизкейк...ммм??????</string>
+<key>address</key>
+<string>"Пискаревский просп., 16","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-29-84</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.879736746775365</string>
+<key>longitude</key>
+<string>30.457283923978235</string>
+<key>name</key>
+<string>Токио Сити</string>
+<key>desc</key>
+<string>Прекрасное уютное место, замечательное обслуживание, суши на ура! Пароль от wi-fi 677-1000</string>
+<key>address</key>
+<string>"Народная ул., 2","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-95-78</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.94019276363988</string>
+<key>longitude</key>
+<string>30.378308222561028</string>
+<key>name</key>
+<string>КИ-ДО</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"Суворовский просп.,  51","191015, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 600-23-51</string>
+<key>site</key>
+<string>http:\/\/yuzubar.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.95388085110967</string>
+<key>longitude</key>
+<string>30.214010820724358</string>
+<key>name</key>
+<string>Arena</string>
+<key>desc</key>
+<string>Очень вкусно кормят)))) нереально вкусные дранники)))</string>
+<key>address</key>
+<string>"Капитанская ул., 4","199397, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 351-71-95</string>
+<key>site</key>
+<string>http:\/\/www.arenabar.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93874641276706</string>
+<key>longitude</key>
+<string>30.370179288874887</string>
+<key>name</key>
+<string>Самба Суши</string>
+<key>desc</key>
+<string>Самые вкусные суши тут!! Проверено многими годами!!! ??</string>
+<key>address</key>
+<string>"Греческий просп., 10 (9-я Советская ул.)","191014, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 579-45-33</string>
+<key>site</key>
+<string>http:\/\/www.sambasushi.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.9341039936043</string>
+<key>longitude</key>
+<string>30.322632070034935</string>
+<key>name</key>
+<string>Ginger</string>
+<key>desc</key>
+<string>Ресторан,не перенесенный с адаптацией, а будто телепортированный из центра Токио - редкий пример места национальной кухни, где она не пытается казаться чем-то близко знакомым и обязательно роскошным.</string>
+<key>address</key>
+<string>"Казанская ул., 3","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 640-16-16</string>
+<key>site</key>
+<string>http:\/\/ginzaproject.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.91329955192041</string>
+<key>longitude</key>
+<string>30.47504425048828</string>
+<key>name</key>
+<string>СольФаСоль</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"просп. Большевиков, 9, корп. 1 (ул. Подвойского)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 589-58-38</string>
+<key>site</key>
+<string>http:\/\/www.solfasolspb.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.87674615315336</string>
+<key>longitude</key>
+<string>30.3202257464501</string>
+<key>name</key>
+<string>КАФЕ ИМПЕРИАЛ</string>
+<key>desc</key>
+<string>Все очень вкусно. Заказ принесли всего через 20 минут. Приятная атмосфера, спокойная музыка. Рекомендую.</string>
+<key>address</key>
+<string>"Московский 176 (Благодатная улица)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 911 918-34-01</string>
+<key>site</key>
+<string>http:\/\/cafeimperial.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.953881464626214</string>
+<key>longitude</key>
+<string>30.218219896433215</string>
+<key>name</key>
+<string>Суши Хаус</string>
+<key>desc</key>
+<string>Самые вкусные суши в городе!</string>
+<key>address</key>
+<string>"ул. Кораблестроителей, 34","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 305-88-83</string>
+<key>site</key>
+<string>http:\/\/sushihouse.spb.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.92672378971013</string>
+<key>longitude</key>
+<string>30.317232333076536</string>
+<key>name</key>
+<string>Сушимания</string>
+<key>desc</key>
+<string>Вкусные роллы, народу немного, порадовало меню, недорого.</string>
+<key>address</key>
+<string>"Сенная пл., 13а","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 951 676-09-39</string>
+<key>site</key>
+<string>http:\/\/www.sushimania.club</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.95362542324811</string>
+<key>longitude</key>
+<string>30.331156842204773</string>
+<key>name</key>
+<string>Волна</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"Петровская наб., 4","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 322-53-83</string>
+<key>site</key>
+<string>http:\/\/www.volna.su</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.935924446865464</string>
+<key>longitude</key>
+<string>30.34170627593994</string>
+<key>name</key>
+<string>Ки-до \/ Ki-do</string>
+<key>desc</key>
+<string>Приятное место. Хорошая качественная кухня. Мне нравится. Рядом Sunpoint 24 часа.</string>
+<key>address</key>
+<string>"Караванная ул., 16 (Манежная пл.)","191011, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 970-76-75</string>
+<key>site</key>
+<string>http:\/\/kido.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.83391974999813</string>
+<key>longitude</key>
+<string>30.21356799257701</string>
+<key>name</key>
+<string>Нагасаки</string>
+<key>desc</key>
+<string>Очень вкусные и нежные роллы, отличное обслуживание, обходительный и вежливый персонал, спокойная атмосфера!+ появился кальян! Пожалуй это лучшее место на Ветеранов!))</string>
+<key>address</key>
+<string>"просп. Ветеранов, 89","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 600-40-06</string>
+<key>site</key>
+<string>http:\/\/www.nagasaki-sushi.ru</string>
+<key>openhours</key>
+<string>Open until 4:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.98746635688321</string>
+<key>longitude</key>
+<string>30.20413041114807</string>
+<key>name</key>
+<string>Апрель Cafe</string>
+<key>desc</key>
+<string>на входе пара надменных дев условно модельной внешности. хамоватые официанты условно мужского пола. еда есть, бар пуст. впрочем, место совсем не плохое, но усиленно деланная распальцовка раздражает.</string>
+<key>address</key>
+<string>"ТРК «Атлантик Сити» (ул. Савушкина, 126)","197374, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 900-09-88</string>
+<key>site</key>
+<string>http:\/\/www.aprilcafe.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.85178715643068</string>
+<key>longitude</key>
+<string>30.271016593317512</string>
+<key>name</key>
+<string>Сушимания</string>
+<key>desc</key>
+<string>Соба ?чай из Японии????все улыбаааются??отличное и 'нуоченьвкусное' место??самое  приятное-тут очень ДЕШЕВО??</string>
+<key>address</key>
+<string>"Ленинский просп., 129","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 951 676-07-03</string>
+<key>site</key>
+<string>http:\/\/www.sushimania.club</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.85007552297756</string>
+<key>longitude</key>
+<string>30.28081868946684</string>
+<key>name</key>
+<string>СольФаСоль</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"просп. Народного Ополчения, 10 (Ленинский просп.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 620-10-20</string>
+<key>site</key>
+<string>http:\/\/www.solfasolspb.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.92855476976107</string>
+<key>longitude</key>
+<string>30.360165238380432</string>
+<key>name</key>
+<string>Две палочки</string>
+<key>desc</key>
+<string>Обслуживание оставляет желать лучшего. Ждали свой небольшой заказ целый час! Калифорнию даже не думайте тут брать, такой ущербной нигде не ела</string>
+<key>address</key>
+<string>"ТРЦ «Галерея» (Лиговский просп., 30а)","191040, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 800 220-20-20</string>
+<key>site</key>
+<string>http:\/\/dvepalochki.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.01664161266094</string>
+<key>longitude</key>
+<string>30.31029224395752</string>
+<key>name</key>
+<string>Sushi One</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"ЖК «Северная Корона» (Фермское ш., 32)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 981-18-19</string>
+<key>site</key>
+<string>http:\/\/www.sushione.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.01240290199527</string>
+<key>longitude</key>
+<string>30.40194869041443</string>
+<key>name</key>
+<string>Две палочки</string>
+<key>desc</key>
+<string>Умопомрачительные новые чаи! Особенно черный с корицей, клубникой и мятой!</string>
+<key>address</key>
+<string>"просп. Науки, 14, корп. 1","195220, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 335-02-22</string>
+<key>site</key>
+<string>http:\/\/dvepalochki.ru</string>
+<key>openhours</key>
+<string>Open until 6:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.9321833712095</string>
+<key>longitude</key>
+<string>30.334839820861816</string>
+<key>name</key>
+<string>Якитория Mojo</string>
+<key>desc</key>
+<string>Не перестаю удивляться: цены приличные весьма, порции маленькие... Салат 247 руб.: лист базилика, пол помидорины, пол огурца, пол луковицы, масло... Ну чего не жить?)))</string>
+<key>address</key>
+<string>"пл. Островского, 5 (пер. Крылова)","190000, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 315-83-43</string>
+<key>site</key>
+<string>http:\/\/yakitoriya.spb.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.96186385801587</string>
+<key>longitude</key>
+<string>30.352113246917725</string>
+<key>name</key>
+<string>Дитай</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"Лесной просп., 4","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 542-64-40</string>
+<key>site</key>
+<string>http:\/\/www.ditay.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.006682388785805</string>
+<key>longitude</key>
+<string>30.21499418579871</string>
+<key>name</key>
+<string>Токио Сити \/ Tokyo City</string>
+<key>desc</key>
+<string>Пароль wi-fi 677-1000</string>
+<key>address</key>
+<string>"Богатырский просп., 55","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-55-97</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.8333784718365</string>
+<key>longitude</key>
+<string>30.201013784137096</string>
+<key>name</key>
+<string>Такао</string>
+<key>desc</key>
+<string>Очень долго обслуживают, все забывают, официанты неаккуратные и еле двигаются...  Поющая группа отвратительно перепела все хиты, уши в трубочку сворачиватся:(</string>
+<key>address</key>
+<string>"просп. Ветеранов, 105 (просп. Маршала Жукова)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 643-36-08</string>
+<key>site</key>
+<string>http:\/\/www.takao.spb.ru</string>
+<key>openhours</key>
+<string>Open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93169154257431</string>
+<key>longitude</key>
+<string>30.356655803543145</string>
+<key>name</key>
+<string>Такао</string>
+<key>desc</key>
+<string>Здесь крутые официантки)</string>
+<key>address</key>
+<string>"Невский просп., 106","191025, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 963 246-08-30</string>
+<key>site</key>
+<string>http:\/\/www.takao.spb.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.00400332798484</string>
+<key>longitude</key>
+<string>30.296814186547913</string>
+<key>name</key>
+<string>Ямамото</string>
+<key>desc</key>
+<string>Обслуживание ужасное!!!! Суши несли 1час 20 мин... Пепельницу , минут 40 не меняли... И суши, ужасно не вкусные... В сушках с запеченным крабом, вместо краба, крабовые палочки!!! Отвратительно!!!</string>
+<key>address</key>
+<string>"просп. Испытателей, 7","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 952-22-07</string>
+<key>site</key>
+<string>http:\/\/ymamoto.spb.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.013768627356875</string>
+<key>longitude</key>
+<string>30.3235518376418</string>
+<key>name</key>
+<string>Sushi House</string>
+<key>desc</key>
+<string>Лучшие суши в городе, самые большие и самые вкусные! Рекомендую на десерт марцепановые рулетики! Они божественны!)))</string>
+<key>address</key>
+<string>"просп. Энгельса, 45","194017, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 978-90-90</string>
+<key>site</key>
+<string>http:\/\/sushihouse.spb.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.86328500420441</string>
+<key>longitude</key>
+<string>30.405996259007985</string>
+<key>name</key>
+<string>Tакао</string>
+<key>desc</key>
+<string>Кто знает,какого черта эти страшные \</string>
+<key>address</key>
+<string>"ТК «Южный Полюс» (просп. Славы, 50)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 981 862-23-82</string>
+<key>site</key>
+<string>http:\/\/www.takao.spb.ru</string>
+<key>openhours</key>
+<string>Open until 4:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.01234223276232</string>
+<key>longitude</key>
+<string>30.397662406067507</string>
+<key>name</key>
+<string>Терияки Гриль</string>
+<key>desc</key>
+<string>Неожиданно хорошее качество блюд для фудкорта,причем за вполне внятные деньги. Мясо и овощи готовят прямо при вас,а  заказ при этом  ждете не больше пяти минут. Для меня это настоящая находка.</string>
+<key>address</key>
+<string>"ТРК «Академ-Парк» (Гражданский просп., 41Б)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 677-35-13</string>
+<key>site</key>
+<string>http:\/\/teriyakigrill.ru</string>
+<key>openhours</key>
+<string>Open until 10:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.83792628407883</string>
+<key>longitude</key>
+<string>30.396573543548584</string>
+<key>name</key>
+<string>Нагасаки</string>
+<key>desc</key>
+<string>Пароль от вайфай: 89219417189</string>
+<key>address</key>
+<string>"Будапештская ул., 83 (Дунайский просп.)","192281, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 600-40-06</string>
+<key>site</key>
+<string>http:\/\/www.nagasaki-sushi.ru</string>
+<key>openhours</key>
+<string></string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.98616113206074</string>
+<key>longitude</key>
+<string>30.297503575379196</string>
+<key>name</key>
+<string>Тако</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"ул. Савушкина, 10","197183, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 431-05-07</string>
+<key>site</key>
+<string>http:\/\/takorg.ru</string>
+<key>openhours</key>
+<string>Open until 4:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.924046111587366</string>
+<key>longitude</key>
+<string>30.311122373679318</string>
+<key>name</key>
+<string>Sushi Time</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"Садовая ул., 51","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 980-85-87</string>
+<key>site</key>
+<string>http:\/\/www.sushi-time24.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.860303</string>
+<key>longitude</key>
+<string>30.320928</string>
+<key>name</key>
+<string>Ки-до (Ki-do)</string>
+<key>desc</key>
+<string>Wifi пароль 456852456</string>
+<key>address</key>
+<string>"Московский пр., 175","196070, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 327-06-85</string>
+<key>site</key>
+<string>http:\/\/kido.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.002337613059446</string>
+<key>longitude</key>
+<string>30.2035850030361</string>
+<key>name</key>
+<string>Пицца Пармезан</string>
+<key>desc</key>
+<string>Отличная пицца на тонком тесте, брали фирменную Пармезан</string>
+<key>address</key>
+<string>"УЛ. Оптиков, 45","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 308-71-71</string>
+<key>site</key>
+<string>http:\/\/pizzaparmesan.ru</string>
+<key>openhours</key>
+<string></string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.840886118772595</string>
+<key>longitude</key>
+<string>30.49182467700978</string>
+<key>name</key>
+<string>Токио Сити</string>
+<key>desc</key>
+<string>Это прорыв в ресторанном бизнесе рыбацкого!!1</string>
+<key>address</key>
+<string>"Шлиссельбургский просп., 7","192177, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 622-14-08</string>
+<key>site</key>
+<string>http:\/\/www.tokyo-city.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.01786942353154</string>
+<key>longitude</key>
+<string>30.247271060943604</string>
+<key>name</key>
+<string>НагаСаки</string>
+<key>desc</key>
+<string>Одна из лучших суширий в Петербурге, и обстановка и еда на прекрасном уровне, но цены бьют по карману. Обслуживание удивляет в лучшую сторону, зашел вечером, народу много, и все равно моментально:)</string>
+<key>address</key>
+<string>"Комендантский просп., 27, корп. 1 (Долгоозерная ул.)","197371, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 600-40-06</string>
+<key>site</key>
+<string>http:\/\/www.nagasaki-sushi.ru</string>
+<key>openhours</key>
+<string></string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.9838341206227</string>
+<key>longitude</key>
+<string>30.25452645746923</string>
+<key>name</key>
+<string>Бали \/ Bali</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"ул. Савушкина, 98","197374, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 331-56-69</string>
+<key>site</key>
+<string>http:\/\/balispb.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.03563949847179</string>
+<key>longitude</key>
+<string>30.341703664153872</string>
+<key>name</key>
+<string>Громов</string>
+<key>desc</key>
+<string>В этом несущемся сломя голову мире есть две вещи, которые следует делать крайне медленно... Ласкать виски. И упиваться женщиной.@SurkovRussiа</string>
+<key>address</key>
+<string>"просп. Художников, 10","194354, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 645-88-89</string>
+<key>site</key>
+<string>http:\/\/bargromov.com</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.852137487942194</string>
+<key>longitude</key>
+<string>30.22510998594801</string>
+<key>name</key>
+<string>Satori</string>
+<key>desc</key>
+<string>Цезарь хороший</string>
+<key>address</key>
+<string>"Ленинский просп., 104","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 406-87-92</string>
+<key>site</key>
+<string>http:\/\/satorirestoran.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.9777409201033</string>
+<key>longitude</key>
+<string>30.318145751953125</string>
+<key>name</key>
+<string>Parma Sushi</string>
+<key>desc</key>
+<string>Очень вкусная запеченная Калифорния)</string>
+<key>address</key>
+<string>"ул. Академика Павлова, 5 (Аптекарская наб.)","197022, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 922-82-81</string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.91451128852202</string>
+<key>longitude</key>
+<string>30.475384284346134</string>
+<key>name</key>
+<string>Такао</string>
+<key>desc</key>
+<string>Официант пролил коктейль на динамик айфона...администратор предложила взамен какой-нибудь алкоголь и скидку..в итоге принесли молочный коктейль и сделали скидку 10р.)))ну где еще такое встретишь?!)</string>
+<key>address</key>
+<string>"просп. Большевиков, 8","193231, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 589-28-47</string>
+<key>site</key>
+<string>http:\/\/www.takao.spb.ru</string>
+<key>openhours</key>
+<string>Open until 4:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.008596586372825</string>
+<key>longitude</key>
+<string>30.257740521591536</string>
+<key>name</key>
+<string>Сушница</string>
+<key>desc</key>
+<string>Пришли с суши поесть суши, а лосося у них видите ли нет... Вина нет...чая тоже нет.., Адовое место</string>
+<key>address</key>
+<string>"Комендантский пр., 12 (Комендантская пл.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 455-44-55</string>
+<key>site</key>
+<string>http:\/\/sushnica.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.86459981476158</string>
+<key>longitude</key>
+<string>30.31257157743185</string>
+<key>name</key>
+<string>Суши Маг</string>
+<key>desc</key>
+<string>Рыжая кассирша - просто спесивое чмо, а темненькая збс, у рыжей ничего не берите</string>
+<key>address</key>
+<string>"Варшавская ул., 25, корп. 1 (Бассейная ул.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.987103971996035</string>
+<key>longitude</key>
+<string>30.21389949679467</string>
+<key>name</key>
+<string>Суши Wok</string>
+<key>desc</key>
+<string>Тупая и глухая продавщица,никому не советую посещать это место!</string>
+<key>address</key>
+<string>"ул. Савушкина, 118","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string></string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.00366835733382</string>
+<key>longitude</key>
+<string>30.291444366184507</string>
+<key>name</key>
+<string>Cуши Wok</string>
+<key>desc</key>
+<string>Очень не плохая Филадельфия! Скажем, не хуже чем в Двух Палочках)) даже сыра больше))</string>
+<key>address</key>
+<string>"просп. Испытателей, 6","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 570-70-70</string>
+<key>site</key>
+<string>http:\/\/sushiwok.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.847872493977825</string>
+<key>longitude</key>
+<string>30.15046320784542</string>
+<key>name</key>
+<string>Pro Sushi</string>
+<key>desc</key>
+<string>Если Вам не дорого Ваше время, то добро пожаловать в эти Pro Sushi. Видимо , официанты считают , что люди к ним приходят просто посидеть в обнимку с меню или под кондиционером.</string>
+<key>address</key>
+<string>"Petergofskoe Shosse, 45","198206, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 457-04-34</string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.97311335722059</string>
+<key>longitude</key>
+<string>30.33403515815735</string>
+<key>name</key>
+<string>Puberty (Паберти)</string>
+<key>desc</key>
+<string>Отличное пиво, холодная говядина в остром соусе...</string>
+<key>address</key>
+<string>"Выборгская наб., 47","194044, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 333-20-20</string>
+<key>site</key>
+<string>http:\/\/www.puberty-spb.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.74090395609831</string>
+<key>longitude</key>
+<string>30.58417797088623</string>
+<key>name</key>
+<string>Две палочки</string>
+<key>desc</key>
+<string>Мастер-классы для детей от Шеф-повара КЛАСС!!!))))</string>
+<key>address</key>
+<string>"ТЦ «Меркурий» (Пролетарская ул., 36)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string>http:\/\/dvepalochki.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.85804314150672</string>
+<key>longitude</key>
+<string>30.38801233645921</string>
+<key>name</key>
+<string>Палки</string>
+<key>desc</key>
+<string>Самый офигенный кальян в городе))</string>
+<key>address</key>
+<string>"просп. Славы, 30 (Бухарестская ул.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 360-60-27</string>
+<key>site</key>
+<string>http:\/\/www.pallki.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.03784844863746</string>
+<key>longitude</key>
+<string>30.325618386268612</string>
+<key>name</key>
+<string>Killfish</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"просп. Энгельса, 113, корп. 1","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 800 333-09-77</string>
+<key>site</key>
+<string>http:\/\/killfish.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.844637460637095</string>
+<key>longitude</key>
+<string>30.3223107328369</string>
+<key>name</key>
+<string>Евразия</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"Московский просп., 222","196066, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 373-19-16</string>
+<key>site</key>
+<string>http:\/\/www.evrasia.spb.ru</string>
+<key>openhours</key>
+<string>Open until 5:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93979622786028</string>
+<key>longitude</key>
+<string>30.476575732099</string>
+<key>name</key>
+<string>Васаби (Wasabi)</string>
+<key>desc</key>
+<string>Крем суп с лососем очень вкусный</string>
+<key>address</key>
+<string>"Индустриальный пр., 10\/1","195426, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 244-73-18</string>
+<key>site</key>
+<string>http:\/\/wasabico.ru\/#\/spb\/restaurants\/1\/10</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.014411294692174</string>
+<key>longitude</key>
+<string>30.27942764437063</string>
+<key>name</key>
+<string>Velocita</string>
+<key>desc</key>
+<string>Очень хорош томатный суп. Пиво всегда свежее. Нормальное место, чтобы скрасить похмельное утро:)</string>
+<key>address</key>
+<string>"Байконурская ул., 26а","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 940-57-72</string>
+<key>site</key>
+<string>http:\/\/9405772.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.853078178597826</string>
+<key>longitude</key>
+<string>30.215528277944117</string>
+<key>name</key>
+<string>Евразия</string>
+<key>desc</key>
+<string>Избегайте этого парня! Он вор и негодяй!))</string>
+<key>address</key>
+<string>"Ленинский просп., 95, корп. 1","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 743-69-48</string>
+<key>site</key>
+<string>http:\/\/evrasia.spb.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.83430226900483</string>
+<key>longitude</key>
+<string>30.220266482728928</string>
+<key>name</key>
+<string>Суши Шоп</string>
+<key>desc</key>
+<string>Очень вкусно, постоянно здесь сидим с друзьями, обслуживают быстро, вежливый приятный персонал. Ценник по сравнению с другими заведениями намного ниже, но качество не страдает.</string>
+<key>address</key>
+<string>"просп. Ветеранов, 87","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 923-98-69</string>
+<key>site</key>
+<string>http:\/\/t.co\/9BuHDRsYvK</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93786581107203</string>
+<key>longitude</key>
+<string>30.23695521439353</string>
+<key>name</key>
+<string>Суши Wok</string>
+<key>desc</key>
+<string>Мастер класс по приготовлению роллов и бесплатная дегустация!вход свободный! Начало в 14.00</string>
+<key>address</key>
+<string>"Гаванская ул., 44 (Малый просп. В.О.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 570-70-70</string>
+<key>site</key>
+<string>http:\/\/sushiwok.ru\/spb\/</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.87980236933726</string>
+<key>longitude</key>
+<string>30.2648010534089</string>
+<key>name</key>
+<string>Cinema лаунж кафе</string>
+<key>desc</key>
+<string>Кафе открылось после трёхмесячного ремонта. Отличный дизайн, вежливые официанты, вкусная японская, европейская кухня, алкоголь на любой вкус.</string>
+<key>address</key>
+<string>"Васи Алексеева 6","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 921 567-39-10</string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string></string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.95963307785323</string>
+<key>longitude</key>
+<string>30.302102001481007</string>
+<key>name</key>
+<string>Мираж Кафе</string>
+<key>desc</key>
+<string>очень вкусная пицца и кофе))) всем советую))))</string>
+<key>address</key>
+<string>"Мираж Синема (Большой просп. П.С., 35)","197198, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 952 270-26-53</string>
+<key>site</key>
+<string>http:\/\/mirage.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.836015565437215</string>
+<key>longitude</key>
+<string>30.358474616878215</string>
+<key>name</key>
+<string>Япоша</string>
+<key>desc</key>
+<string>За соседним столиком мужчина пытается совладать с палочками, потом психует и говорит: «я в суши больше не пойду! Я не наелся, я устал! »</string>
+<key>address</key>
+<string>"просп. Космонавтов, 65, к. 2","196158, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 244-70-73</string>
+<key>site</key>
+<string>http:\/\/www.yaposhaspb.com</string>
+<key>openhours</key>
+<string>Open until 4:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.90220453135301</string>
+<key>longitude</key>
+<string>30.27557680632376</string>
+<key>name</key>
+<string>Суши Шоп</string>
+<key>desc</key>
+<string>набор Суши-Шок 299 р. - 30 роликов</string>
+<key>address</key>
+<string>"Старо-Петергофский просп., 52","190020, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string>http:\/\/t.co\/9BuHDRsYvK</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.015033057798476</string>
+<key>longitude</key>
+<string>30.386252403259277</string>
+<key>name</key>
+<string>Killfish</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"просп. Науки, 17, корп. 2","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 800 333-09-77</string>
+<key>site</key>
+<string>http:\/\/killfish.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.90494656048744</string>
+<key>longitude</key>
+<string>30.31854494435974</string>
+<key>name</key>
+<string>Суши Шоп</string>
+<key>desc</key>
+<string>Никто никогда не ходите сюда. Здесь тухлые продукты. Продают без зазрения совести!</string>
+<key>address</key>
+<string>"Московский просп., 73","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 920-52-61</string>
+<key>site</key>
+<string>http:\/\/t.co\/9BuHDRsYvK</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.02896556918139</string>
+<key>longitude</key>
+<string>30.294784498765363</string>
+<key>name</key>
+<string>Евразия</string>
+<key>desc</key>
+<string>Отличный суши-ресторан, чтобы ненадолго зайти перекусить и встретиться с друзьями вечерком. Уютно, приятные официанты, неплохое обслуживание, в общем, мне нравится!</string>
+<key>address</key>
+<string>"ул. Щербакова, 11 (Новоколомяжский просп.)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string>http:\/\/evrasia.spb.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93019440919962</string>
+<key>longitude</key>
+<string>30.357831716537476</string>
+<key>name</key>
+<string>Осака</string>
+<key>desc</key>
+<string>Очень тихо,мило,вкусно и хороший сервис. Цена БЛ 300 руб</string>
+<key>address</key>
+<string>"Пушкинская ул., 6","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string></string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.00538851484082</string>
+<key>longitude</key>
+<string>30.29664218257241</string>
+<key>name</key>
+<string>СушиWok</string>
+<key>desc</key>
+<string>Быстро, вуксно. В филадельфии лосося на один краешек. Зато дарят еще столько же к заказу.</string>
+<key>address</key>
+<string>"Коломяжский просп., 26","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string>http:\/\/sushiwok.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.859293046459705</string>
+<key>longitude</key>
+<string>30.321082864357834</string>
+<key>name</key>
+<string>Япоша</string>
+<key>desc</key>
+<string>Суши не вкусные, спасает только акция по 19\u20bd за штуку.</string>
+<key>address</key>
+<string>"Московский просп., 177","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string>http:\/\/yaposhaspb.com</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.928492660996795</string>
+<key>longitude</key>
+<string>30.40954461788551</string>
+<key>name</key>
+<string>Суши Экспресс</string>
+<key>desc</key>
+<string>Пароль от wifi cafe2012</string>
+<key>address</key>
+<string>"Заневский просп., 18","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 996-68-16</string>
+<key>site</key>
+<string>http:\/\/sushiexpress24.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.851677055480295</string>
+<key>longitude</key>
+<string>30.336910272379328</string>
+<key>name</key>
+<string>Евразия</string>
+<key>desc</key>
+<string>Зал для некурящих хорошо изолирован, один из немногих ресторанов сети с всегда приятным обслуживанием. Очень нравятся запеченые мидии.</string>
+<key>address</key>
+<string>"просп. Юрия Гагарина, 37 (ул. Типанова)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 373-07-22</string>
+<key>site</key>
+<string>http:\/\/evrasia.spb.ru</string>
+<key>openhours</key>
+<string>Open until Midnight</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.93867673904109</string>
+<key>longitude</key>
+<string>30.477437242604218</string>
+<key>name</key>
+<string>Евразия</string>
+<key>desc</key>
+<string>На редкость приятное обслуживание</string>
+<key>address</key>
+<string>"Индустриальный просп., 11","195426, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 911 810-66-60</string>
+<key>site</key>
+<string>http:\/\/evrasia.spb.ru</string>
+<key>openhours</key>
+<string>Open until 5:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.85774955979234</string>
+<key>longitude</key>
+<string>30.198331311872305</string>
+<key>name</key>
+<string>Васаби \/ Розарио</string>
+<key>desc</key>
+<string>В этом Васаби, видимо, забыли свои корпоративные правила - быстро несут вкусную еду, это странно. Вкусная пина колада и холодный борщ. Паста и рис тоже! С трудом встали.</string>
+<key>address</key>
+<string>"Ленинский просп., 82","198332, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 244-76-48</string>
+<key>site</key>
+<string>http:\/\/wasabico.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.85723279324035</string>
+<key>longitude</key>
+<string>30.32180428504944</string>
+<key>name</key>
+<string>Асахи (Asahi)</string>
+<key>desc</key>
+<string>Грибной крем суп прекрасен))</string>
+<key>address</key>
+<string>"Московский пр., 206","196066, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 373-31-98</string>
+<key>site</key>
+<string>http:\/\/asahispb.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.92547417881908</string>
+<key>longitude</key>
+<string>30.314369201660156</string>
+<key>name</key>
+<string>Killfish</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"Садовая ул., 45","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 800 333-09-77</string>
+<key>site</key>
+<string>http:\/\/killfish.ru</string>
+<key>openhours</key>
+<string>Open until 3:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.013713629187016</string>
+<key>longitude</key>
+<string>30.3959175047844</string>
+<key>name</key>
+<string>Yamamoto</string>
+<key>desc</key>
+<string>С 12 до 16 скидка на все 50%.Так что это отличный вариант покушать суши и роллы по цене котлет и пюре! Рекомендую)</string>
+<key>address</key>
+<string>"Гражданский просп., 66, корп. 1 (просп. Науки)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 556-38-17</string>
+<key>site</key>
+<string>http:\/\/ymamoto.spb.ru</string>
+<key>openhours</key>
+<string>Open until 2:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.928517968597994</string>
+<key>longitude</key>
+<string>30.34568511290744</string>
+<key>name</key>
+<string>Aziana</string>
+<key>desc</key>
+<string>Бизнес ланч 250 рублей. Салат, суп, ролл или горячее и чай. + можно курить.</string>
+<key>address</key>
+<string>"Владимирский 19","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string></string>
+<key>site</key>
+<string></string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.8517096653844</string>
+<key>longitude</key>
+<string>30.250031077866325</string>
+<key>name</key>
+<string>Васаби \/ Розарио</string>
+<key>desc</key>
+<string>Пожалуй лучшее Васаби-Розарио в городе. Несколько залов, все вкусно быстро и качественно.</string>
+<key>address</key>
+<string>"Ленинский просп., 115","198207, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 702-12-00</string>
+<key>site</key>
+<string>http:\/\/wasabico.ru</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.9698758261143</string>
+<key>longitude</key>
+<string>30.314583778381348</string>
+<key>name</key>
+<string>Васаби \/ Розарио</string>
+<key>desc</key>
+<string>Ну пиздец! Заказал эспрессо. Принесли чуть теплый и в стопке. В СТОПКЕ, БЛЯДЬ! КОФЕ! Идиоты...</string>
+<key>address</key>
+<string>"просп. Медиков, 5","197022, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 244-73-01</string>
+<key>site</key>
+<string>http:\/\/wasabico.ru</string>
+<key>openhours</key>
+<string>Open until 2:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.96853400321899</string>
+<key>longitude</key>
+<string>30.318381852342863</string>
+<key>name</key>
+<string>Mr.Chan</string>
+<key>desc</key>
+<string>Неплохо, но wok из Sushi Market остаётся в фаворите, намного вкуснее, порция больше, да и дешевле. Да, ещё! - кофе ужасен</string>
+<key>address</key>
+<string>"Аптекарский просп., 2 (наб. р. Карповки)","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 648-00-08</string>
+<key>site</key>
+<string>http:\/\/mrchan.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.94399291575244</string>
+<key>longitude</key>
+<string>30.354465904485888</string>
+<key>name</key>
+<string>Суши Wok</string>
+<key>desc</key>
+<string>Очень вкусные суши,  и быстро были приготовлены.</string>
+<key>address</key>
+<string>"Кирочная ул., 14","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 570-70-70</string>
+<key>site</key>
+<string>http:\/\/sushiwok.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.86378622498468</string>
+<key>longitude</key>
+<string>30.320862992708577</string>
+<key>name</key>
+<string>Евразия</string>
+<key>desc</key>
+<string>Ужасное место</string>
+<key>address</key>
+<string>"Московский просп., 192 (Бассейная ул.)","196070, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 371-90-78</string>
+<key>site</key>
+<string>http:\/\/www.evrasia.spb.ru</string>
+<key>openhours</key>
+<string>Open until 5:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.98660734898108</string>
+<key>longitude</key>
+<string>30.301058787268474</string>
+<key>name</key>
+<string>Васаби\/Розарио (Wasabi\/Rozario)</string>
+<key>desc</key>
+<string>:{</string>
+<key>address</key>
+<string>"ул. Савушкина, 1 (наб. Чёрной Речки)","197183, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 244-76-40</string>
+<key>site</key>
+<string>http:\/\/wasabico.ru</string>
+<key>openhours</key>
+<string>Open until 11:00 PM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>59.858360022356344</string>
+<key>longitude</key>
+<string>30.390467109451162</string>
+<key>name</key>
+<string>Евразия</string>
+<key>desc</key>
+<string>Доброго времени суток) меня зовут Александра , директор этого ресторана. Буду рада получить обратную связь о сервисе и качестве блюд в нашем заведении.</string>
+<key>address</key>
+<string>"просп. Славы, 43","192241, Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 772-51-08</string>
+<key>site</key>
+<string>http:\/\/evrasia.spb.ru</string>
+<key>openhours</key>
+<string>Likely open</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
+
+<dict>
+<key>id</key>
+<integer>0</integer>
+<key>cat</key>
+<string>1</string>
+<key>latitude</key>
+<string>60.05231435757957</string>
+<key>longitude</key>
+<string>30.335587653254343</string>
+<key>name</key>
+<string>Васаби \/ Розарио</string>
+<key>desc</key>
+<string>Вкусненько.</string>
+<key>address</key>
+<string>"просп. Энгельса, 139","Санкт-Петербург","Россия"</string>
+<key>phone</key>
+<string>+7 812 244-73-31</string>
+<key>site</key>
+<string>http:\/\/wasabico.ru\/#\/spb\/restaurants\/4\/36</string>
+<key>openhours</key>
+<string>Open until 1:00 AM</string>
+<key>price</key>
+<string>2</string>
+<key>ticket_adult</key>
+<string>300?</string>
+<key>ticket_kids</key>
+<string>150?</string>
+<key>subscription</key>
+<string>1800?</string>
+</dict>
+
